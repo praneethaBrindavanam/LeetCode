@@ -1,6 +1,6 @@
 # 3174. Clear Digits
 
-![Easy](https://img.shields.io/badge/-Easy-brightgreen) ![Topics](https://img.shields.io/badge/-Topics-grey) ![Companies](https://img.shields.io/badge/-Companies-grey) ![Hint](https://img.shields.io/badge/-Hint-lightgrey)
+![Easy]
 
 You are given a string `s`.
 
