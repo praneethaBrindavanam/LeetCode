@@ -1,6 +1,6 @@
 # 3174. Clear Digits
 
-![Easy]
+**Difficulty:** Easy
 
 You are given a string `s`.
 
