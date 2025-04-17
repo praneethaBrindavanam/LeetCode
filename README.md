@@ -7,6 +7,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0029-divide-two-integers) |
+| [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,5 +44,6 @@ The daily dose of solving problem
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
