@@ -25,6 +25,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0237-delete-node-in-a-linked-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
