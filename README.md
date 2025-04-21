@@ -8,6 +8,7 @@ The daily dose of solving problem
 | ------- |
 | [0029-divide-two-integers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -16,6 +17,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0978-valid-mountain-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0978-valid-mountain-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
@@ -40,6 +42,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
