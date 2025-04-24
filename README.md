@@ -15,6 +15,7 @@ The daily dose of solving problem
 | ------- |
 | [0029-divide-two-integers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ The daily dose of solving problem
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
 ## String
@@ -84,6 +86,7 @@ The daily dose of solving problem
 | [0102-binary-tree-level-order-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,6 +104,7 @@ The daily dose of solving problem
 | [0102-binary-tree-level-order-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
