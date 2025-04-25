@@ -28,6 +28,7 @@ The daily dose of solving problem
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
