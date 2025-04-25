@@ -6,6 +6,7 @@ The daily dose of solving problem
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
