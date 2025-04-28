@@ -25,6 +25,7 @@ The daily dose of solving problem
 | ------- |
 | [0011-container-with-most-water](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -65,6 +66,7 @@ The daily dose of solving problem
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1500-count-largest-group](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1635-number-of-good-pairs) |
