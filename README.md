@@ -31,6 +31,7 @@ The daily dose of solving problem
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -59,12 +60,14 @@ The daily dose of solving problem
 | ------- |
 | [0011-container-with-most-water](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
+| [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -84,6 +87,7 @@ The daily dose of solving problem
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
+| [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -152,6 +156,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
