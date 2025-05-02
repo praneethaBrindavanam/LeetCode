@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/mean-of-array-after-removing-some-elements">1210. Mean of Array After Removing Some Elements</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>arr</code>, return <em>the mean of the remaining integers after removing the smallest <code>5%</code> and the largest <code>5%</code> of the elements.</em></p>
+<h2><a href="https://leetcode.com/problems/mean-of-array-after-removing-some-elements">Mean of Array After Removing Some Elements</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>arr</code>, return <em>the mean of the remaining integers after removing the smallest <code>5%</code> and the largest <code>5%</code> of the elements.</em></p>
 
 <p>Answers within <code>10<sup>-5</sup></code> of the <strong>actual answer</strong> will be considered accepted.</p>
 
