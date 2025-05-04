@@ -8,6 +8,7 @@ The daily dose of solving problem
 | ------- |
 | [0007-reverse-integer](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0050-powx-n) |
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -59,6 +60,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
