@@ -21,6 +21,7 @@ The daily dose of solving problem
 | ------- |
 | [0029-divide-two-integers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Array
