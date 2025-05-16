@@ -38,6 +38,7 @@ The daily dose of solving problem
 | [0560-subarray-sum-equals-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -90,6 +91,7 @@ The daily dose of solving problem
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
