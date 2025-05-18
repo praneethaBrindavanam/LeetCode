@@ -130,6 +130,7 @@ The daily dose of solving problem
 | ------- |
 | [0012-integer-to-roman](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0038-count-and-say) |
 | [1524-string-matching-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
