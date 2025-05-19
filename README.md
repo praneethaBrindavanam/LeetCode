@@ -17,6 +17,7 @@ The daily dose of solving problem
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@ The daily dose of solving problem
 | [2699-count-the-number-of-fair-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3723-sum-of-good-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3723-sum-of-good-numbers) |
 ## Linked List
@@ -102,6 +104,7 @@ The daily dose of solving problem
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
