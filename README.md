@@ -6,6 +6,7 @@ The daily dose of solving problem
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0029-divide-two-integers) |
@@ -72,6 +73,7 @@ The daily dose of solving problem
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
@@ -79,6 +81,7 @@ The daily dose of solving problem
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
