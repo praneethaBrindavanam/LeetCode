@@ -33,6 +33,7 @@ The daily dose of solving problem
 | ------- |
 | [0011-container-with-most-water](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0136-single-number) |
@@ -86,6 +87,7 @@ The daily dose of solving problem
 | ------- |
 | [0011-container-with-most-water](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -95,6 +97,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
