@@ -276,4 +276,8 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
