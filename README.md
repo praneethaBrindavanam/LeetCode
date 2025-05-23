@@ -38,6 +38,7 @@ The daily dose of solving problem
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0041-first-missing-positive) |
+| [0056-merge-intervals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@ The daily dose of solving problem
 | ------- |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
