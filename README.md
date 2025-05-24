@@ -281,5 +281,6 @@ The daily dose of solving problem
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
