@@ -69,6 +69,7 @@ The daily dose of solving problem
 | [2478-longest-nice-subarray](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -270,6 +271,7 @@ The daily dose of solving problem
 | ------- |
 | [0204-count-primes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Backtracking
 |  |
 | ------- |
