@@ -38,6 +38,7 @@ The daily dose of solving problem
 | [0011-container-with-most-water](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0066-plus-one) |
@@ -102,6 +103,7 @@ The daily dose of solving problem
 | [0011-container-with-most-water](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
