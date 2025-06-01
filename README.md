@@ -137,6 +137,7 @@ The daily dose of solving problem
 | ------- |
 | [0012-integer-to-roman](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0041-first-missing-positive) |
+| [0205-isomorphic-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -162,6 +163,7 @@ The daily dose of solving problem
 | [0032-longest-valid-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0412-fizz-buzz) |
 | [1524-string-matching-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
