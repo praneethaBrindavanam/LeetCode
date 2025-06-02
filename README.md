@@ -44,6 +44,7 @@ The daily dose of solving problem
 | [0056-merge-intervals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0204-count-primes) |
@@ -232,6 +233,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
