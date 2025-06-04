@@ -202,6 +202,7 @@ The daily dose of solving problem
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -212,6 +213,7 @@ The daily dose of solving problem
 | [0144-binary-tree-preorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -224,6 +226,7 @@ The daily dose of solving problem
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -249,12 +252,14 @@ The daily dose of solving problem
 | [0011-container-with-most-water](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -315,4 +320,8 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
