@@ -11,6 +11,7 @@ The daily dose of solving problem
 | [0012-integer-to-roman](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0189-rotate-array) |
@@ -107,6 +108,7 @@ The daily dose of solving problem
 | [0002-add-two-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
