@@ -100,6 +100,7 @@ The daily dose of solving problem
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3723-sum-of-good-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3723-sum-of-good-numbers) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Linked List
 |  |
 | ------- |
