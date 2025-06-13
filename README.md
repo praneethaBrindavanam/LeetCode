@@ -91,6 +91,7 @@ The daily dose of solving problem
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2350-find-closest-number-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2478-longest-nice-subarray](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -166,6 +167,7 @@ The daily dose of solving problem
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
