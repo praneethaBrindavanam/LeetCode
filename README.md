@@ -117,6 +117,7 @@ The daily dose of solving problem
 | [0147-insertion-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
