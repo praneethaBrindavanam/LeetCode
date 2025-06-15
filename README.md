@@ -58,6 +58,7 @@ The daily dose of solving problem
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0204-count-primes) |
@@ -155,6 +156,7 @@ The daily dose of solving problem
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -181,6 +183,7 @@ The daily dose of solving problem
 | [0041-first-missing-positive](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -230,6 +233,7 @@ The daily dose of solving problem
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -323,6 +327,7 @@ The daily dose of solving problem
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
