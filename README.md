@@ -89,6 +89,7 @@ The daily dose of solving problem
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
