@@ -102,6 +102,7 @@ The daily dose of solving problem
 | [2478-longest-nice-subarray](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
+| [2639-separate-the-digits-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -310,6 +311,7 @@ The daily dose of solving problem
 | [0412-fizz-buzz](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2639-separate-the-digits-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
