@@ -67,6 +67,7 @@ The daily dose of solving problem
 | [0228-summary-ranges](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -198,6 +199,7 @@ The daily dose of solving problem
 | [0169-majority-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0807-custom-sort-string) |
