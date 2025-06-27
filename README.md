@@ -76,6 +76,7 @@ The daily dose of solving problem
 | [0485-max-consecutive-ones](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
@@ -343,6 +344,7 @@ The daily dose of solving problem
 | [0011-container-with-most-water](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
