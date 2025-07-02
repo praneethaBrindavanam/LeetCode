@@ -17,6 +17,7 @@ The daily dose of solving problem
 | [0168-excel-sheet-column-title](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0223-rectangle-area) |
 | [0279-perfect-squares](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0412-fizz-buzz) |
@@ -456,4 +457,8 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
