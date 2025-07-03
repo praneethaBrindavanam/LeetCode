@@ -35,6 +35,7 @@ The daily dose of solving problem
 | [3201-distribute-candies-among-children-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@ The daily dose of solving problem
 | [0287-find-the-duplicate-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2478-longest-nice-subarray](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +145,7 @@ The daily dose of solving problem
 | [0050-powx-n](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -340,6 +343,7 @@ The daily dose of solving problem
 | [2048-build-array-from-permutation](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2639-separate-the-digits-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
