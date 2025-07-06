@@ -123,6 +123,7 @@ The daily dose of solving problem
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3723-sum-of-good-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3723-sum-of-good-numbers) |
@@ -204,6 +205,7 @@ The daily dose of solving problem
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -430,6 +432,7 @@ The daily dose of solving problem
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3201-distribute-candies-among-children-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Backtracking
 |  |
 | ------- |
