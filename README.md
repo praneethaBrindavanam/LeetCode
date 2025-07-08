@@ -38,6 +38,7 @@ The daily dose of solving problem
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3859-maximum-product-of-two-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +210,7 @@ The daily dose of solving problem
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
+| [3859-maximum-product-of-two-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
