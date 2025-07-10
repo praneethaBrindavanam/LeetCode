@@ -130,6 +130,7 @@ The daily dose of solving problem
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3723-sum-of-good-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3723-sum-of-good-numbers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
@@ -386,6 +387,7 @@ The daily dose of solving problem
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -442,6 +444,7 @@ The daily dose of solving problem
 | [2844-sum-of-squares-of-special-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3201-distribute-candies-among-children-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Backtracking
 |  |
 | ------- |
