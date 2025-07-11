@@ -76,6 +76,7 @@ The daily dose of solving problem
 | [0240-search-a-2d-matrix-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -191,6 +192,7 @@ The daily dose of solving problem
 | [0215-kth-largest-element-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -250,6 +252,7 @@ The daily dose of solving problem
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -402,6 +405,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -482,6 +486,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Geometry
 |  |
 | ------- |
