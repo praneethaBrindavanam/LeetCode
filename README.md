@@ -205,6 +205,7 @@ The daily dose of solving problem
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1970-sorting-the-sentence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -280,6 +281,7 @@ The daily dose of solving problem
 | [1524-string-matching-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1543-simplified-fractions](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1543-simplified-fractions) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1970-sorting-the-sentence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [3194-find-words-containing-character](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
