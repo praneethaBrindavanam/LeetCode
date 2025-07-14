@@ -27,6 +27,7 @@ The daily dose of solving problem
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0963-three-equal-parts](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0963-three-equal-parts) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1500-count-largest-group) |
 | [1543-simplified-fractions](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1543-simplified-fractions) |
@@ -148,6 +149,7 @@ The daily dose of solving problem
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
