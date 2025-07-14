@@ -12,7 +12,7 @@ class Solution {
     public int getDecimalValue(ListNode head) {
         int s=0;
         while(head!=null){
-            s=(s<<1)|head.val;
+            s=(2*s)+head.val;
             head=head.next;
         }
         return s;
