@@ -109,6 +109,7 @@ The daily dose of solving problem
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -246,6 +247,7 @@ The daily dose of solving problem
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -505,4 +507,8 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
