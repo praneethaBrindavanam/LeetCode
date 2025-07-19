@@ -25,6 +25,7 @@ The daily dose of solving problem
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0523-continuous-subarray-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0963-three-equal-parts](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0963-three-equal-parts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -84,6 +85,7 @@ The daily dose of solving problem
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -239,6 +241,7 @@ The daily dose of solving problem
 | [0409-longest-palindrome](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0807-custom-sort-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -447,6 +450,7 @@ The daily dose of solving problem
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
