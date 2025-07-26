@@ -60,6 +60,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0018-4sum) |
@@ -289,6 +290,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0038-count-and-say) |
@@ -542,4 +544,8 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
