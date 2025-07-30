@@ -26,6 +26,7 @@ The daily dose of solving problem
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0492-construct-the-rectangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0963-three-equal-parts](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0963-three-equal-parts) |
