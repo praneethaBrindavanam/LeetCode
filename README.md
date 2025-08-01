@@ -69,6 +69,7 @@ The daily dose of solving problem
 | [0016-3sum-closest](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0049-group-anagrams) |
@@ -192,6 +193,7 @@ The daily dose of solving problem
 | [0018-4sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
