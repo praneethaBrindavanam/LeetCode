@@ -74,6 +74,7 @@ The daily dose of solving problem
 | [0066-plus-one](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0169-majority-element) |
@@ -419,6 +420,7 @@ The daily dose of solving problem
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
