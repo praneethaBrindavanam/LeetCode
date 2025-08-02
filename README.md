@@ -34,6 +34,7 @@ The daily dose of solving problem
 | [1013-fibonacci-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1500-count-largest-group) |
 | [1543-simplified-fractions](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1543-simplified-fractions) |
 | [1635-number-of-good-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -115,6 +116,7 @@ The daily dose of solving problem
 | [1293-three-consecutive-odds](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1524-string-matching-in-an-array) |
