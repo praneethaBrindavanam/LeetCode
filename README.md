@@ -105,6 +105,7 @@ The daily dose of solving problem
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0876-hand-of-straights](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 | [0963-three-equal-parts](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0963-three-equal-parts) |
 | [0966-binary-subarrays-with-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -232,6 +233,7 @@ The daily dose of solving problem
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0807-custom-sort-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0807-custom-sort-string) |
+| [0876-hand-of-straights](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0876-hand-of-straights) |
 | [0935-orderly-queue](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0935-orderly-queue) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -270,6 +272,7 @@ The daily dose of solving problem
 | [0523-continuous-subarray-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0807-custom-sort-string) |
+| [0876-hand-of-straights](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -445,6 +448,7 @@ The daily dose of solving problem
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0876-hand-of-straights](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0876-hand-of-straights) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
