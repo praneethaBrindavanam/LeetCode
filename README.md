@@ -149,6 +149,7 @@ The daily dose of solving problem
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2714-left-and-right-sum-differences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -505,6 +506,7 @@ The daily dose of solving problem
 | [0966-binary-subarrays-with-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2714-left-and-right-sum-differences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## String Matching
 |  |
 | ------- |
