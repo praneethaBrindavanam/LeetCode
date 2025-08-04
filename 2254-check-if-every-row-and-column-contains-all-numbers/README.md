@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers">2254. Check if Every Row and Column Contains All Numbers</a></h2><h3>Easy</h3><hr><p>An <code>n x n</code> matrix is <strong>valid</strong> if every row and every column contains <strong>all</strong> the integers from <code>1</code> to <code>n</code> (<strong>inclusive</strong>).</p>
+<h2><a href="https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers">Check if Every Row and Column Contains All Numbers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>An <code>n x n</code> matrix is <strong>valid</strong> if every row and every column contains <strong>all</strong> the integers from <code>1</code> to <code>n</code> (<strong>inclusive</strong>).</p>
 
 <p>Given an <code>n x n</code> integer matrix <code>matrix</code>, return <code>true</code> <em>if the matrix is <strong>valid</strong>.</em> Otherwise, return <code>false</code>.</p>
 
