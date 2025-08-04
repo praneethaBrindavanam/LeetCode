@@ -135,6 +135,7 @@ The daily dose of solving problem
 | [2144-maximum-difference-between-increasing-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -286,6 +287,7 @@ The daily dose of solving problem
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
@@ -563,6 +565,7 @@ The daily dose of solving problem
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Geometry
 |  |
 | ------- |
