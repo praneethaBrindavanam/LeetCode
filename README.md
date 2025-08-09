@@ -19,6 +19,7 @@ The daily dose of solving problem
 | [0189-rotate-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0412-fizz-buzz) |
@@ -56,6 +57,7 @@ The daily dose of solving problem
 | [0136-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2478-longest-nice-subarray](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -187,6 +189,7 @@ The daily dose of solving problem
 | [0050-powx-n](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
