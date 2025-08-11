@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimize-maximum-of-array">2530. Minimize Maximum of Array</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> comprising of <code>n</code> non-negative integers.</p>
+<h2><a href="https://leetcode.com/problems/minimize-maximum-of-array">Minimize Maximum of Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> comprising of <code>n</code> non-negative integers.</p>
 
 <p>In one operation, you must:</p>
 
