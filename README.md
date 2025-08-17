@@ -183,6 +183,7 @@ The daily dose of solving problem
 | [0024-swap-nodes-in-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
@@ -398,6 +399,7 @@ The daily dose of solving problem
 | [0101-symmetric-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -425,6 +427,7 @@ The daily dose of solving problem
 | [0101-symmetric-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -492,6 +495,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -587,6 +591,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Queue
 |  |
