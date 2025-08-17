@@ -66,6 +66,7 @@ The daily dose of solving problem
 | [0342-power-of-four](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0342-power-of-four) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2478-longest-nice-subarray](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2792-neighboring-bitwise-xor](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
@@ -160,6 +161,7 @@ The daily dose of solving problem
 | [2639-separate-the-digits-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2792-neighboring-bitwise-xor](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
