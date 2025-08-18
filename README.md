@@ -581,6 +581,7 @@ The daily dose of solving problem
 | [0183-customers-who-never-order](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0619-biggest-single-number) |
 | [1258-article-views-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1258-article-views-i) |
 | [1811-fix-names-in-a-table](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1811-fix-names-in-a-table) |
