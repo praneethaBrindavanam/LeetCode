@@ -408,6 +408,7 @@ The daily dose of solving problem
 | [0199-binary-tree-right-side-view](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -438,6 +439,7 @@ The daily dose of solving problem
 | [0199-binary-tree-right-side-view](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -599,6 +601,7 @@ The daily dose of solving problem
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Queue
 |  |
