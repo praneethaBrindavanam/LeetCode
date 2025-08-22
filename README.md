@@ -130,6 +130,7 @@ The daily dose of solving problem
 | [1388-greatest-sum-divisible-by-three](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -334,6 +335,7 @@ The daily dose of solving problem
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
@@ -630,6 +632,7 @@ The daily dose of solving problem
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Geometry
 |  |
