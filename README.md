@@ -179,6 +179,7 @@ The daily dose of solving problem
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3723-sum-of-good-numbers) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -572,6 +573,7 @@ The daily dose of solving problem
 | [2714-left-and-right-sum-differences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## String Matching
 |  |
 | ------- |
