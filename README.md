@@ -371,6 +371,7 @@ The daily dose of solving problem
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0807-custom-sort-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0807-custom-sort-string) |
 | [0935-orderly-queue](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0935-orderly-queue) |
+| [1078-remove-outermost-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -411,6 +412,7 @@ The daily dose of solving problem
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1078-remove-outermost-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
