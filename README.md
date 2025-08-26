@@ -630,6 +630,7 @@ The daily dose of solving problem
 | [1258-article-views-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1258-article-views-i) |
 | [1811-fix-names-in-a-table](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Combinatorics
 |  |
 | ------- |
