@@ -627,6 +627,7 @@ The daily dose of solving problem
 | [0595-big-countries](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1258-article-views-i) |
 | [1811-fix-names-in-a-table](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1827-invalid-tweets) |
