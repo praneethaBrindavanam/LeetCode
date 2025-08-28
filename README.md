@@ -185,6 +185,7 @@ The daily dose of solving problem
 | [3731-sum-of-variable-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -293,6 +294,7 @@ The daily dose of solving problem
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Hash Table
@@ -659,6 +661,7 @@ The daily dose of solving problem
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [3748-sort-matrix-by-diagonals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Geometry
 |  |
 | ------- |
