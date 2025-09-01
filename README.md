@@ -48,6 +48,7 @@ The daily dose of solving problem
 | [1635-number-of-good-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -301,6 +302,7 @@ The daily dose of solving problem
 | [1741-sort-array-by-increasing-frequency](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -561,6 +563,7 @@ The daily dose of solving problem
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2032-largest-odd-number-in-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2530-minimize-maximum-of-array) |
