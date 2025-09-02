@@ -102,6 +102,7 @@ The daily dose of solving problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0189-rotate-array) |
@@ -365,6 +366,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
