@@ -474,6 +474,7 @@ The daily dose of solving problem
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -492,6 +493,7 @@ The daily dose of solving problem
 | [0199-binary-tree-right-side-view](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -513,6 +515,7 @@ The daily dose of solving problem
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -634,6 +637,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Sliding Window
 |  |
@@ -736,4 +740,8 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
