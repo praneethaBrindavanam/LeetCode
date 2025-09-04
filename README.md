@@ -57,6 +57,7 @@ The daily dose of solving problem
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3830-find-closest-person](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
