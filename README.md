@@ -129,6 +129,7 @@ The daily dose of solving problem
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0876-hand-of-straights](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0876-hand-of-straights) |
@@ -258,6 +259,7 @@ The daily dose of solving problem
 | [0541-reverse-string-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1894-merge-strings-alternately](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -287,6 +289,7 @@ The daily dose of solving problem
 | [0594-longest-harmonious-subsequence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0807-custom-sort-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0876-hand-of-straights) |
@@ -376,6 +379,7 @@ The daily dose of solving problem
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2530-minimize-maximum-of-array) |
@@ -599,6 +603,7 @@ The daily dose of solving problem
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -645,6 +650,7 @@ The daily dose of solving problem
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1813-maximum-erasure-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2478-longest-nice-subarray) |
