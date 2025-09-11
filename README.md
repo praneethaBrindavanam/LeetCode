@@ -317,6 +317,7 @@ The daily dose of solving problem
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -430,6 +431,7 @@ The daily dose of solving problem
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2528-number-of-valid-clock-times](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2528-number-of-valid-clock-times) |
+| [2887-sort-vowels-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3396-valid-word) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
