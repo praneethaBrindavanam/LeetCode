@@ -54,6 +54,7 @@ The daily dose of solving problem
 | [3201-distribute-candies-among-children-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -434,6 +435,7 @@ The daily dose of solving problem
 | [2887-sort-vowels-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -764,4 +766,12 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
