@@ -255,6 +255,7 @@ The daily dose of solving problem
 | [0061-rotate-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -403,6 +404,7 @@ The daily dose of solving problem
 | [0032-longest-valid-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0179-largest-number) |
