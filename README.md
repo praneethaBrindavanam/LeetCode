@@ -116,6 +116,7 @@ The daily dose of solving problem
 | [0229-majority-element-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -261,6 +262,7 @@ The daily dose of solving problem
 | [0151-reverse-words-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -287,6 +289,7 @@ The daily dose of solving problem
 | [0179-largest-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -341,6 +344,7 @@ The daily dose of solving problem
 | [0205-isomorphic-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -383,6 +387,7 @@ The daily dose of solving problem
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
