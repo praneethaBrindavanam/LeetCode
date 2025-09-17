@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/button-with-longest-push-time">3632. Button with Longest Push Time</a></h2><h3>Easy</h3><hr><p>You are given a 2D array <code>events</code> which represents a sequence of events where a child pushes a series of buttons on a keyboard.</p>
+<h2><a href="https://leetcode.com/problems/button-with-longest-push-time">Button with Longest Push Time</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a 2D array <code>events</code> which represents a sequence of events where a child pushes a series of buttons on a keyboard.</p>
 
 <p>Each <code>events[i] = [index<sub>i</sub>, time<sub>i</sub>]</code> indicates that the button at index <code>index<sub>i</sub></code> was pressed at time <code>time<sub>i</sub></code>.</p>
 
