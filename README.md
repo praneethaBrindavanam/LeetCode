@@ -429,6 +429,7 @@ The daily dose of solving problem
 | [0412-fizz-buzz](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0466-count-the-repetitions](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0466-count-the-repetitions) |
 | [0541-reverse-string-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -588,6 +589,7 @@ The daily dose of solving problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0466-count-the-repetitions](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0466-count-the-repetitions) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
