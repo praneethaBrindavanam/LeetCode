@@ -493,6 +493,7 @@ The daily dose of solving problem
 | [0143-reorder-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -754,6 +755,7 @@ The daily dose of solving problem
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
@@ -781,6 +783,7 @@ The daily dose of solving problem
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Trie
 |  |
