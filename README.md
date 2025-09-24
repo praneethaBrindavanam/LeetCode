@@ -12,6 +12,7 @@ The daily dose of solving problem
 | [0012-integer-to-roman](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0066-plus-one) |
@@ -97,6 +98,7 @@ The daily dose of solving problem
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0066-plus-one) |
@@ -761,6 +763,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0733-flood-fill) |
