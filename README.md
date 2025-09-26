@@ -367,6 +367,7 @@ The daily dose of solving problem
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0807-custom-sort-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0876-hand-of-straights) |
+| [0931-maximum-frequency-stack](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0966-binary-subarrays-with-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -498,6 +499,7 @@ The daily dose of solving problem
 | [0232-implement-queue-using-stacks](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0931-maximum-frequency-stack](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -786,6 +788,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0931-maximum-frequency-stack](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Trie
 |  |
@@ -803,6 +806,7 @@ The daily dose of solving problem
 ## Ordered Set
 |  |
 | ------- |
+| [0931-maximum-frequency-stack](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [3790-fruits-into-baskets-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Function
 |  |
