@@ -40,6 +40,7 @@ The daily dose of solving problem
 | [0935-orderly-queue](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0935-orderly-queue) |
 | [0963-three-equal-parts](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0963-three-equal-parts) |
 | [1013-fibonacci-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -146,6 +147,7 @@ The daily dose of solving problem
 | [0963-three-equal-parts](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0963-three-equal-parts) |
 | [0966-binary-subarrays-with-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1018-largest-perimeter-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -314,6 +316,7 @@ The daily dose of solving problem
 | [0876-hand-of-straights](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0876-hand-of-straights) |
 | [0935-orderly-queue](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0935-orderly-queue) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -621,6 +624,7 @@ The daily dose of solving problem
 | [0624-maximum-distance-in-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0876-hand-of-straights) |
+| [1018-largest-perimeter-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
