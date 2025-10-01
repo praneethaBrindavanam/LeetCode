@@ -50,6 +50,7 @@ The daily dose of solving problem
 | [1500-count-largest-group](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1500-count-largest-group) |
 | [1543-simplified-fractions](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1543-simplified-fractions) |
 | [1635-number-of-good-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -594,6 +595,7 @@ The daily dose of solving problem
 | ------- |
 | [0412-fizz-buzz](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0415-add-strings) |
+| [1642-water-bottles](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
