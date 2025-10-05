@@ -23,6 +23,7 @@ The daily dose of solving problem
 | [0204-count-primes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0342-power-of-four) |
