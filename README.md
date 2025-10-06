@@ -466,6 +466,7 @@ The daily dose of solving problem
 | [1302-delete-characters-to-make-fancy-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1543-simplified-fractions](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1543-simplified-fractions) |
+| [1660-thousand-separator](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1660-thousand-separator) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1894-merge-strings-alternately) |
