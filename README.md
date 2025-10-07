@@ -153,6 +153,7 @@ The daily dose of solving problem
 | [0978-valid-mountain-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -286,6 +287,7 @@ The daily dose of solving problem
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -847,4 +849,8 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
