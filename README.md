@@ -70,6 +70,7 @@ The daily dose of solving problem
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [3990-maximum-xor-of-subsequences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3990-maximum-xor-of-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@ The daily dose of solving problem
 | [2792-neighboring-bitwise-xor](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3990-maximum-xor-of-subsequences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3990-maximum-xor-of-subsequences) |
 ## Array
 |  |
 | ------- |
@@ -229,6 +231,7 @@ The daily dose of solving problem
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3990-maximum-xor-of-subsequences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3990-maximum-xor-of-subsequences) |
 ## Linked List
 |  |
 | ------- |
@@ -661,6 +664,7 @@ The daily dose of solving problem
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3990-maximum-xor-of-subsequences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3990-maximum-xor-of-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
