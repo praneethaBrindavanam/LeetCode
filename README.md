@@ -56,6 +56,7 @@ The daily dose of solving problem
 | [2032-largest-odd-number-in-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -738,6 +739,7 @@ The daily dose of solving problem
 | [1656-count-good-triplets](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2528-number-of-valid-clock-times](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2528-number-of-valid-clock-times) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3201-distribute-candies-among-children-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
