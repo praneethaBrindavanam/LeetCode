@@ -236,6 +236,7 @@ The daily dose of solving problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -668,6 +669,7 @@ The daily dose of solving problem
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
@@ -680,6 +682,7 @@ The daily dose of solving problem
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -689,6 +692,7 @@ The daily dose of solving problem
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
