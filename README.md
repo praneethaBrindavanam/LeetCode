@@ -220,6 +220,7 @@ The daily dose of solving problem
 | [3242-count-elements-with-maximum-frequency](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3632-button-with-longest-push-time](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3632-button-with-longest-push-time) |
