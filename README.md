@@ -188,6 +188,7 @@ The daily dose of solving problem
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -444,6 +445,7 @@ The daily dose of solving problem
 | [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
