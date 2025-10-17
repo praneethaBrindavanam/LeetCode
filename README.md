@@ -144,6 +144,7 @@ The daily dose of solving problem
 | [0561-array-partition](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -664,6 +665,7 @@ The daily dose of solving problem
 | [0402-remove-k-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
