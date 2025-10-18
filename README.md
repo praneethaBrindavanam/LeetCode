@@ -484,6 +484,7 @@ The daily dose of solving problem
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0807-custom-sort-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0807-custom-sort-string) |
+| [0886-score-of-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0935-orderly-queue](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0935-orderly-queue) |
 | [0953-reverse-only-letters](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1044-find-common-characters) |
@@ -542,6 +543,7 @@ The daily dose of solving problem
 | [0232-implement-queue-using-stacks](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0931-maximum-frequency-stack](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
