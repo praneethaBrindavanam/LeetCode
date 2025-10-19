@@ -40,6 +40,7 @@ The daily dose of solving problem
 | [0728-self-dividing-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0935-orderly-queue) |
+| [0944-smallest-range-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0944-smallest-range-i) |
 | [0963-three-equal-parts](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0963-three-equal-parts) |
 | [1013-fibonacci-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -153,6 +154,7 @@ The daily dose of solving problem
 | [0733-flood-fill](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0733-flood-fill) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0876-hand-of-straights](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0876-hand-of-straights) |
+| [0944-smallest-range-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0948-sort-an-array) |
 | [0963-three-equal-parts](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0963-three-equal-parts) |
 | [0966-binary-subarrays-with-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
