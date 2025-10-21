@@ -229,6 +229,7 @@ The daily dose of solving problem
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3632-button-with-longest-push-time](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3632-button-with-longest-push-time) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -373,6 +374,7 @@ The daily dose of solving problem
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
@@ -456,6 +458,7 @@ The daily dose of solving problem
 | [2634-minimum-common-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -750,6 +753,7 @@ The daily dose of solving problem
 | [2530-minimize-maximum-of-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## String Matching
@@ -768,6 +772,7 @@ The daily dose of solving problem
 | [0966-binary-subarrays-with-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1813-maximum-erasure-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Enumeration
 |  |
 | ------- |
