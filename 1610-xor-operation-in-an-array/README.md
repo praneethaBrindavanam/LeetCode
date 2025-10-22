@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/xor-operation-in-an-array">1610. XOR Operation in an Array</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code> and an integer <code>start</code>.</p>
+<h2><a href="https://leetcode.com/problems/xor-operation-in-an-array">XOR Operation in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer <code>n</code> and an integer <code>start</code>.</p>
 
 <p>Define an array <code>nums</code> where <code>nums[i] = start + 2 * i</code> (<strong>0-indexed</strong>) and <code>n == nums.length</code>.</p>
 
