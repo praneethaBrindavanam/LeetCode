@@ -29,6 +29,7 @@ The daily dose of solving problem
 | [0342-power-of-four](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0390-elimination-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0441-arranging-coins) |
@@ -88,6 +89,7 @@ The daily dose of solving problem
 | [0231-power-of-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -483,6 +485,7 @@ The daily dose of solving problem
 | [0383-ransom-note](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0415-add-strings) |
