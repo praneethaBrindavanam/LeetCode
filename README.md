@@ -71,6 +71,7 @@ The daily dose of solving problem
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3830-find-closest-person) |
@@ -98,6 +99,7 @@ The daily dose of solving problem
 | [2792-neighboring-bitwise-xor](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3990-maximum-xor-of-subsequences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3990-maximum-xor-of-subsequences) |
 ## Array
 |  |
