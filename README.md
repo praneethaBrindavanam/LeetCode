@@ -190,6 +190,7 @@ The daily dose of solving problem
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -317,6 +318,7 @@ The daily dose of solving problem
 | [1019-squares-of-a-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -368,6 +370,7 @@ The daily dose of solving problem
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -463,6 +466,7 @@ The daily dose of solving problem
 | [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2530-minimize-maximum-of-array) |
@@ -766,6 +770,7 @@ The daily dose of solving problem
 | [0525-contiguous-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2530-minimize-maximum-of-array) |
