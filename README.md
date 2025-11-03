@@ -195,6 +195,7 @@ The daily dose of solving problem
 | [1635-number-of-good-pairs](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -523,6 +524,7 @@ The daily dose of solving problem
 | [1524-string-matching-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1543-simplified-fractions](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1543-simplified-fractions) |
 | [1660-thousand-separator](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1660-thousand-separator) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -691,6 +693,7 @@ The daily dose of solving problem
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2530-minimize-maximum-of-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 ## Greedy
 |  |
@@ -712,6 +715,7 @@ The daily dose of solving problem
 | [1388-greatest-sum-divisible-by-three](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
