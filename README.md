@@ -80,6 +80,7 @@ The daily dose of solving problem
 | [3859-maximum-product-of-two-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3990-maximum-xor-of-subsequences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3990-maximum-xor-of-subsequences) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethaBrindavanam/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -258,6 +259,7 @@ The daily dose of solving problem
 | [3790-fruits-into-baskets-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3990-maximum-xor-of-subsequences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3990-maximum-xor-of-subsequences) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethaBrindavanam/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -398,6 +400,7 @@ The daily dose of solving problem
 | [3748-sort-matrix-by-diagonals](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethaBrindavanam/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -729,6 +732,7 @@ The daily dose of solving problem
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3990-maximum-xor-of-subsequences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3990-maximum-xor-of-subsequences) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethaBrindavanam/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
