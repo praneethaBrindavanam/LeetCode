@@ -92,6 +92,7 @@ The daily dose of solving problem
 | [0222-count-complete-tree-nodes](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -697,6 +698,7 @@ The daily dose of solving problem
 | [0118-pascals-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0466-count-the-repetitions](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0466-count-the-repetitions) |
 | [0678-valid-parenthesis-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0678-valid-parenthesis-string) |
