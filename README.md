@@ -103,6 +103,7 @@ The daily dose of solving problem
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3990-maximum-xor-of-subsequences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3990-maximum-xor-of-subsequences) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -259,6 +260,7 @@ The daily dose of solving problem
 | [3790-fruits-into-baskets-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3990-maximum-xor-of-subsequences](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3990-maximum-xor-of-subsequences) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethaBrindavanam/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Linked List
 |  |
@@ -685,6 +687,7 @@ The daily dose of solving problem
 | [3616-make-array-elements-equal-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
