@@ -40,6 +40,7 @@ The daily dose of solving problem
 | [0523-continuous-subarray-sum](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0755-reach-a-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0755-reach-a-number) |
 | [0797-rabbits-in-forest](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0935-orderly-queue) |
@@ -485,6 +486,7 @@ The daily dose of solving problem
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0755-reach-a-number](https://github.com/praneethaBrindavanam/LeetCode/tree/master/0755-reach-a-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/praneethaBrindavanam/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
