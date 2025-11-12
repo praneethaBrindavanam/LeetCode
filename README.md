@@ -248,6 +248,7 @@ The daily dose of solving problem
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3321-type-of-triangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3533-snake-in-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -554,6 +555,7 @@ The daily dose of solving problem
 | [3194-find-words-containing-character](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3533-snake-in-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -691,6 +693,7 @@ The daily dose of solving problem
 | [2585-delete-greatest-value-in-each-row](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/praneethaBrindavanam/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3533-snake-in-matrix](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/praneethaBrindavanam/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
