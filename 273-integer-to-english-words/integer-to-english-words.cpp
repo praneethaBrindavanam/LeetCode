@@ -1,46 +1,45 @@
 class Solution {
+private:
+    string ones[10] = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
+    string teens[10] = {"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
+    string tens[10] = {"", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
+    string thousands[4] = {"", "Thousand", "Million", "Billion"};
+    
+    string helper(int num) {
+        string result = "";
+        if (num >= 100) {
+            result += ones[num / 100] + " Hundred";
+            num %= 100;
+            if (num > 0) result += " ";
+        }
+        if (num >= 20) {
+            result += tens[num / 10];
+            if (num % 10) result += " " + ones[num % 10];
+        } else if (num > 0) {
+            result += (num < 10) ? ones[num] : teens[num - 10];
+        }
+        return result;
+    }
 public:
-    vector<pair<int, string>> nums ={
-    {1000000000, "Billion"},
-    {1000000, "Million"}, 
-    {1000, "Thousand"},
-    {100, "Hundred"}, 
-    {90, "Ninety"},
-    {80, "Eighty"},
-    {70, "Seventy"},
-    {60, "Sixty"},
-    {50, "Fifty"},
-    {40, "Forty"},
-    {30, "Thirty"},
-    {20, "Twenty"}, 
-    {19, "Nineteen"}, 
-    {18, "Eighteen"},
-    {17, "Seventeen"},
-    {16, "Sixteen"},
-    {15, "Fifteen"},
-    {14, "Fourteen"}, 
-    {13, "Thirteen"},
-    {12, "Twelve"}, 
-    {11, "Eleven"}, 
-    {10, "Ten"}, 
-    {9, "Nine"}, 
-    {8, "Eight"}, 
-    {7, "Seven"}, 
-    {6, "Six"}, 
-    {5, "Five"}, 
-    {4, "Four"}, 
-    {3, "Three"}, 
-    {2, "Two"}, 
-    {1, "One"}
-     };
-    
     string numberToWords(int num) {
-        if(num == 0)   return "Zero";
-        
-        for(auto it: nums)
-            if(num >= it.first)
-                return (num >= 100 ? numberToWords(num/it.first)+" " : "") + it.second + (num%it.first == 0 ? "" : " "+numberToWords(num%it.first));
-    
-        return "";
+        if (num == 0) return "Zero";
+        vector<string> parts;
+        int groupIndex = 0;
+        while (num > 0) {
+            if (num % 1000) {
+                string part = helper(num % 1000);
+                if (groupIndex > 0) part += " " + thousands[groupIndex];
+                parts.push_back(part);
+            }
+            num /= 1000;
+            groupIndex++;
+        }
+        reverse(parts.begin(), parts.end());
+        string result = "";
+        for (int i = 0; i < parts.size(); i++) {
+            if (i > 0) result += " ";
+            result += parts[i];
+        }
+        return result;
     }
 };
