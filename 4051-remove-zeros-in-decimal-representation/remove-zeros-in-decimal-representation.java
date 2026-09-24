@@ -1,12 +1,18 @@
 class Solution {
     public long removeZeros(long n) {
-        String st="";
-        String s=Long.toString(n);
-        for(int i=0;i<s.length();i++) {
-            if(s.charAt(i)!='0'){
-                st+=s.charAt(i);
+        long temp=n;
+        long result=0;
+        long reverse=0;
+        while(temp>0){
+            if(temp%10!=0){
+                result=result*10+temp%10;
             }
+            temp/=10;
         }
-        return Long.parseLong(st);
+        while(result > 0){
+            reverse = reverse * 10 + result % 10;
+            result /= 10;
+        }
+        return reverse;
     }
 }
