@@ -1,0 +1,22 @@
+class Solution {
+    public List<Integer> targetIndices(int[] nums, int target) {
+        List<Integer> ans = new ArrayList<>();
+
+        Arrays.sort(nums);
+
+        boolean found = false;
+        for(int i=0; i<nums.length; i++)
+        {
+            if(nums[i] == target)
+            {
+                ans.add(i);
+                found = true;
+            }
+
+            if(found && nums[i] != target)
+                break;
+        }
+
+        return ans;
+    }
+}
